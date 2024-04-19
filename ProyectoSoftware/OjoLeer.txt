@@ -1,0 +1,6 @@
+Importante dentro de la carpeta:Js
+Cambiar la extension del archivo:
+
+Javascript.txt 
+Por 
+Javascript.js
